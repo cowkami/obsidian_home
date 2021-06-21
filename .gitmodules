@@ -1,0 +1,6 @@
+[submodule "hugo"]
+	path = hugo
+	url = git@github.com:cowkami/hugo
+[submodule "obsidian"]
+	path = obsidian
+	url = git@github.com:cowkami/obsidian
