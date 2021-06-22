@@ -7,8 +7,11 @@
         "id": "327e0fb9a494b3c7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "obsidian/Physics/Mechanics/Mechanics.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian/Physics/Mechanics/Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "327e0fb9a494b3c7",
   "lastOpenFiles": [
-    "Potential.md",
+    "obsidian/Physics/Mechanics/Mechanics.md",
+    "obsidian/Physics/Physics.md",
     "obsidian/Physics/Quantum theory/Schrodinger equation.md",
-    "obsidian/Mathmatics/Mathmatics.md",
-    "Cartesian coordinate system.md",
-    "obsidian/Mathmatics/Calculus/Vector calculus/Del operator.md",
-    "Equclidean space.md",
-    "obsidian/Mathmatics/Calculus/Vector calculus/Laplace operator.md",
-    "obsidian/Mathmatics/Calculus/Vector calculus/Vector calculus.md",
-    "obsidian/Mathmatics/Calculus/Calculus.md",
-    "Vector calculus.md"
+    "obsidian/Physics/Quantum theory/Quantum theory.md",
+    "obsidian/Mathmatics/Laplace operator.md",
+    "obsidian/Physics/Mechanics/Potential.md",
+    "obsidian/Physics/Quantum theory/Planck constant.md",
+    "Laplace operator.md",
+    "obsidian/thoughts/Science vs Religion.md",
+    "hugo/content/blog/bayes_theorem.md"
   ]
 }
