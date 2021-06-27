@@ -7,8 +7,11 @@
         "id": "327e0fb9a494b3c7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "obsidian/private/life/happiness.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian/private/life/happiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,8 @@
   },
   "active": "327e0fb9a494b3c7",
   "lastOpenFiles": [
+    "happiness.md",
+    "Untitled.md",
     "obsidian/Philosophy/Reductionism.md",
     "obsidian/Philosophy/Philosophy.md",
     "hugo/README.md",
@@ -91,8 +97,6 @@
     "hugo/content/blog/bayes_theorem.md",
     "obsidian/Physics/Thermodynamics/Thermodynamics.md",
     "obsidian/Physics/Quantum mechanics/Schrodinger equation.md",
-    "obsidian/Physics/Quantum mechanics/Quantum mechanics.md",
-    "obsidian/Physics/Quantum mechanics/Planck constant.md",
-    "obsidian/Physics/Mechanics/Potential.md"
+    "obsidian/Physics/Quantum mechanics/Quantum mechanics.md"
   ]
 }
