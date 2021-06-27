@@ -7,11 +7,8 @@
         "id": "327e0fb9a494b3c7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "obsidian/Physics/Mechanics/Mechanics.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/Physics/Mechanics/Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "327e0fb9a494b3c7",
   "lastOpenFiles": [
-    "obsidian/Physics/Mechanics/Mechanics.md",
-    "obsidian/Physics/Physics.md",
-    "obsidian/Physics/Quantum theory/Schrodinger equation.md",
-    "obsidian/Physics/Quantum theory/Quantum theory.md",
-    "obsidian/Mathmatics/Laplace operator.md",
-    "obsidian/Physics/Mechanics/Potential.md",
-    "obsidian/Physics/Quantum theory/Planck constant.md",
-    "Laplace operator.md",
-    "obsidian/thoughts/Science vs Religion.md",
-    "hugo/content/blog/bayes_theorem.md"
+    "obsidian/Philosophy/Reductionism.md",
+    "obsidian/Philosophy/Philosophy.md",
+    "hugo/README.md",
+    "hugo/archetypes/default.md",
+    "hugo/content/blog/bayes_theorem.md",
+    "obsidian/Physics/Thermodynamics/Thermodynamics.md",
+    "obsidian/Physics/Quantum mechanics/Schrodinger equation.md",
+    "obsidian/Physics/Quantum mechanics/Quantum mechanics.md",
+    "obsidian/Physics/Quantum mechanics/Planck constant.md",
+    "obsidian/Physics/Mechanics/Potential.md"
   ]
 }
