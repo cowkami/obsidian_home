@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "327e0fb9a494b3c7",
+        "id": "63a6626a411bdb64",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "obsidian/private/life/happiness.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/private/life/happiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "327e0fb9a494b3c7",
+  "active": "63a6626a411bdb64",
   "lastOpenFiles": [
+    "obsidian/Machine learning/Reinforcement learning/Reinforcement learning.md",
+    "obsidian/Machine learning/Reinforcement learning/regret.md",
+    "Gaussian process regression.md",
+    "obsidian/Machine learning/Bayesian optimization/Bayesian optimization.md",
     "happiness.md",
     "Untitled.md",
     "obsidian/Philosophy/Reductionism.md",
     "obsidian/Philosophy/Philosophy.md",
     "hugo/README.md",
-    "hugo/archetypes/default.md",
-    "hugo/content/blog/bayes_theorem.md",
-    "obsidian/Physics/Thermodynamics/Thermodynamics.md",
-    "obsidian/Physics/Quantum mechanics/Schrodinger equation.md",
-    "obsidian/Physics/Quantum mechanics/Quantum mechanics.md"
+    "hugo/archetypes/default.md"
   ]
 }
