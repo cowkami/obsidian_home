@@ -4,12 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "63a6626a411bdb64",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
+        "id": "c3cb150dd28fb9fd",
+        "type": "split",
+        "children": [
+          {
+            "id": "63a6626a411bdb64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/Machine learning/Bayesian inference/Bayesian inference.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "c672df8dcd969605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/Machine learning/Bayesian inference/Probabilistic model.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -49,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 195
+    "width": 291.5121879577637
   },
   "right": {
     "id": "23b30689cd1d4b67",
@@ -65,12 +86,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian/Machine learning/Bayesian inference/Probabilistic model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -79,20 +101,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "63a6626a411bdb64",
+  "active": "c672df8dcd969605",
   "lastOpenFiles": [
-    "obsidian/Machine learning/Reinforcement learning/Reinforcement learning.md",
-    "obsidian/Machine learning/Reinforcement learning/regret.md",
-    "Gaussian process regression.md",
-    "obsidian/Machine learning/Bayesian optimization/Bayesian optimization.md",
-    "happiness.md",
-    "Untitled.md",
-    "obsidian/Philosophy/Reductionism.md",
-    "obsidian/Philosophy/Philosophy.md",
-    "hugo/README.md",
-    "hugo/archetypes/default.md"
+    "obsidian/Machine learning/Bayesian inference/Probabilistic model.md",
+    "obsidian/Machine learning/Bayesian inference/Bayesian inference.md",
+    "Topology.md",
+    "Mathematics.md",
+    "obsidian/private/life/like.md",
+    "Mathmatics.md",
+    "obsidian/Machine learning/Machine learning.md",
+    "obsidian/Machine learning/Gaussian process regression.md",
+    "obsidian/Mathmatics/Statistics/Bayes theorem.md",
+    "hugo/content/blog/bayes_theorem.md"
   ]
 }
