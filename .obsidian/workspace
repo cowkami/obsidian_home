@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c3cb150dd28fb9fd",
-        "type": "split",
-        "children": [
-          {
-            "id": "63a6626a411bdb64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/Machine learning/Bayesian inference/Bayesian inference.md",
-                "mode": "preview"
-              }
-            }
-          },
-          {
-            "id": "c672df8dcd969605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/Machine learning/Bayesian inference/Probabilistic model.md",
-                "mode": "preview"
-              }
-            }
+        "id": "19ceb3fe3a1801ef",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "obsidian/Philosophy/free will.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -70,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5121879577637
+    "width": 217.51218795776367
   },
   "right": {
     "id": "23b30689cd1d4b67",
@@ -86,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/Machine learning/Bayesian inference/Probabilistic model.md",
+                "file": "obsidian/Philosophy/free will.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,19 +83,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "c672df8dcd969605",
+  "active": "19ceb3fe3a1801ef",
   "lastOpenFiles": [
-    "obsidian/Machine learning/Bayesian inference/Probabilistic model.md",
-    "obsidian/Machine learning/Bayesian inference/Bayesian inference.md",
-    "Topology.md",
-    "Mathematics.md",
-    "obsidian/private/life/like.md",
-    "Mathmatics.md",
-    "obsidian/Machine learning/Machine learning.md",
-    "obsidian/Machine learning/Gaussian process regression.md",
+    "Untitled.md",
+    "obsidian/Machine learning/Bayesian inference/marginal likelihood.md",
+    "obsidian/Mathmatics/Statistics/empirical Bayes.md",
     "obsidian/Mathmatics/Statistics/Bayes theorem.md",
-    "hugo/content/blog/bayes_theorem.md"
+    "obsidian/Mathmatics/Statistics/Statistics.md",
+    "obsidian/Mathmatics/Statistics/latent variable.md",
+    "obsidian/private/skill/統計検定.md",
+    "obsidian/private/skill/統計検定/統計検定.md",
+    "obsidian/Mathmatics/Algebra/field.md",
+    "obsidian/Latex/equation.md"
   ]
 }
