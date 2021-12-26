@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "19ceb3fe3a1801ef",
+        "id": "c0bab312072d70eb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian/Philosophy/free will.md",
-            "mode": "source"
+            "file": "hugo/content/blog/introduce_emacs.md",
+            "mode": "preview"
           }
         }
       }
@@ -20,9 +20,17 @@
   "left": {
     "id": "1871b8a3ad8f99fb",
     "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 217.51218795776367,
+    "collapsed": true
+  },
+  "right": {
+    "id": "23b30689cd1d4b67",
+    "type": "split",
     "children": [
       {
-        "id": "c40c90b1018d385c",
+        "id": "a23e270f88824f93",
         "type": "tabs",
         "children": [
           {
@@ -31,6 +39,23 @@
             "state": {
               "type": "file-explorer",
               "state": {}
+            }
+          },
+          {
+            "id": "57aed30f6bb64ff5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hugo/content/blog/introduce_emacs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
             }
           },
           {
@@ -52,51 +77,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.51218795776367
+    "width": 300
   },
-  "right": {
-    "id": "23b30689cd1d4b67",
-    "type": "split",
-    "children": [
-      {
-        "id": "c19e46bc70750c1d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "57aed30f6bb64ff5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "obsidian/Philosophy/free will.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
-  },
-  "active": "19ceb3fe3a1801ef",
+  "active": "c0bab312072d70eb",
   "lastOpenFiles": [
-    "Untitled.md",
-    "obsidian/Machine learning/Bayesian inference/marginal likelihood.md",
-    "obsidian/Mathmatics/Statistics/empirical Bayes.md",
-    "obsidian/Mathmatics/Statistics/Bayes theorem.md",
-    "obsidian/Mathmatics/Statistics/Statistics.md",
-    "obsidian/Mathmatics/Statistics/latent variable.md",
-    "obsidian/private/skill/統計検定.md",
-    "obsidian/private/skill/統計検定/統計検定.md",
-    "obsidian/Mathmatics/Algebra/field.md",
-    "obsidian/Latex/equation.md"
+    "hugo/content/blog/introduce_emacs.md",
+    "hugo/content/blog/test2.md",
+    "hugo/content/blog/test.md",
+    "obsidian/BJJ/diary/axis211128.md",
+    "obsidian/BJJ/diary/axis211123.md",
+    "obsidian/BJJ/diary/BJJ diary.md",
+    "obsidian/BJJ/cross choke 2.md",
+    "obsidian/BJJ/cross choke 1.md",
+    "obsidian/BJJ/BJJ.md",
+    "obsidian/BJJ/hiki-te.md"
   ]
 }

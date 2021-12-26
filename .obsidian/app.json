@@ -1,5 +1,7 @@
 {
+  "obsidianCss": true,
   "vimMode": true,
   "tabSize": 2,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true
 }
